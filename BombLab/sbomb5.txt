@@ -1,0 +1,7 @@
+All your base are belong to us.
+1 2 4 8 16 32
+5 4294966881
+2 13
+aaaacd
+5 4 3 2 1 6
+
